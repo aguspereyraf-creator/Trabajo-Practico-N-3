@@ -1,6 +1,7 @@
 🚀 TP3 - Funciones y Modularización en Python
 
 ⚙️ Funciones creadas
+
 calcular_combustible(distancia, consumo_por_km):
 Calcula cuánto combustible necesita la nave según la distancia.
 
